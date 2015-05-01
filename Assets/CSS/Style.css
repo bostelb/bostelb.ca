@@ -1,0 +1,89 @@
+.Overlay {
+	overflow: scroll;
+	position: fixed;
+	top: 0;
+	bottom: 110%;
+	left: 0;
+	right: 0;
+	width: 100%;
+	z-index: 10000;
+ 	opacity: 0;
+	background-color: rgba(178,178,178,0.5);
+	transition: opacity 200ms linear;
+}
+
+.Overlay-Open {
+    bottom: 0;
+    opacity: 1;
+}
+
+#Graph-Paper {
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: absolute;
+	background-color: #343838;
+}
+
+html {
+	font-family: Helvetica;
+	font-size: 13px;
+	color: #BCBCBC;
+	letter-spacing: 1px;
+}
+section {
+	margin:5% auto;
+	padding:10px;
+	width: 85%;
+	background: #343838;
+}
+time {
+	float: right;
+	color: #00B4CC;
+}	
+h1 {
+	font-size: 16px;
+	font-weight: normal;
+	letter-spacing: 3px;
+}
+h2 {
+	font-size: 13px;
+	color: #00B4CC;
+}
+h3 {
+	font-size: 13px;
+	font-weight: normal;
+	color: #00B4CC;
+}
+article {
+	padding: 10px 0px 10px 0px;
+	border-top: 2px dotted #BCBCBC;
+}
+footer {
+	padding: 10px 0px 0px 0px;
+	border-top: 2px dotted #BCBCBC;
+}
+footer>p {
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: #00B4CC;
+}
+a:hover {
+	color: #005F6B;
+}
+ul {
+	list-style: none;
+}
+li:before {
+	content: "● ";
+	color: #005F6B;
+}
+
+mark {
+	background-color: #343838;
+	font-style: normal;
+	color: #00B4CC;
+}

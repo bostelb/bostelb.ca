@@ -1,0 +1,412 @@
+TEMPLATE
+<header>
+	<time datetime="">- Month YYYY</time>
+	<time datetime="">Month YYYY &nbsp;</time>
+	<h1>HEADER ONE</h1>
+	<h3>Header Two</h3>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</li>
+		<li>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</li>
+		<li>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</li>
+		<li>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</li>
+	</ul>
+</article>
+
+SITE INFORMATION
+<header>
+	<time datetime="2015.01.15">Last Update: 15.01.2015</time>
+	<h1>SITE INFORMATION</h1>
+	<h3>Site Under Construction</h3>
+</header>
+<article>
+	<h2>Controls</h2>
+	<p>Hover (cursor only), Click, Drag, Zoom, and Rotate (touch only)</p>
+</article>
+
+BLAISE BOSTELMANN
+<header>
+	<time datetime="1991.10.31">Still Breathing</time>
+	<h1>BLAISE BOSTELMANN</h1>
+	<h3>the Recycled Pixel</h3>
+</header>
+<article>
+	<p>I am an <mark>admirer</mark> of <mark>electrons</mark>, and <mark>photons</mark>. From wishing I had the superpower to harness, to becoming an engineer so that I can harness. It is these particles which excite and inspire me.</p>
+	<br>
+	<p>I <mark>value</mark> all the <mark>little big things</mark> in life. From a climatic page of text in a grand plot, to the short honorary moment of receiving my four year degree. It is these short yet large bursts of energy which propel me to the next.</p>
+	<br>
+	<p>I <mark>seek</mark> to <mark>learn</mark>, to <mark>create</mark>, and to <mark>inspire</mark>. From learning about the chemistry of preservation, to creating a jar of preserved lemons, and finally sharing these lemons with family and friends. It is these experiences which I make my path.</p>
+	<br>
+	<p>I am <mark>Blaise Bostelmann</mark>, and through the use of electrons and photons I will share all the little big moments of my life, whither it be my learning or creating, I hope the end result will inspire.</p>
+	<br>
+	<p><mark>E=n⋅joy<sup>2</sup></mark></p>
+</article>
+<footer>
+	<p>
+		<a href="https://plus.google.com/u/0/102637685126040326246/about">+Blaise</a>
+			&nbsp;|&nbsp;
+		<a href="https://ca.linkedin.com/in/bostelb">LinkedIn</a>
+			&nbsp;|&nbsp;
+		<a href="https://twitter.com/BostelB">Twitter</a>
+			&nbsp;|&nbsp;
+		<a href="https://github.com/bostelb">GitHub</a>
+	</p>
+</footer>
+
+SCOTIABANK
+<header>
+	<time datetime="2013.08">- August 2013</time>
+	<time datetime="2013.05">May 2013 &nbsp;</time>
+	<h1>SCOTIABANK - INTERNATIONAL BANKING SYSTEMS, SYSTEM ARCHITECTURE</h1>
+	<h3>Analyst</h3>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Developed a web based tracking and reporting application to monitor server backups which improved the backup success rates for all international servers</li>
+		<li>Automated sever inventory analysis and reporting to reduce manual labor, quicken the process, and provide accurate reporting</li>
+		<li>Mitigated failed software recovery risks, for the ARCServe suite, by creating recovery procedures in a disaster testing environment</li>
+		<li>Automated server configuration and verification for newly deployed branch servers to reduce manual labor and quicken the process</li>
+	</ul>
+</article>
+
+AECOM
+<header>
+	<time datetime="2013.04">- April 2013</time>
+	<time datetime="2012.09">September 2012 &nbsp;</time>
+	<h1>AECOM - WATER, INSTRUMENTATION AND AUTOMATION</h1>
+	<h3>Technician I</h3>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Maintained electrical, piping, and instrumentation diagrams while developing an understanding of water processes, power distribution, instruments, and automation</li>
+		<li>Maintained client design databases for preparation of I/O lists, instrument data sheets, and specifications to be submitted in client packages</li>
+		<li>Assisted in quality assurance reviews of client packages ensuring stands and consistency are met across all disciplines</li>
+		<li>Providing general support to the engineers and designers for SCADA, instrumentation and control systems, and network design</li>
+	</ul>
+</article>
+
+SCOTIABANK
+<header>
+	<time datetime="2011.08">- August 2011</time>
+	<time datetime="2011.05">May 2011 &nbsp;</time>
+	<h1>SCOTIABANK - INTERNATIONAL BANKING SYSTEMS, SYSTEM ARCHITECTURE</h1>
+	<h3>Analyst</h3>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Quickly caught up to speed by analyzing up to 50,000 Active Directory objects and extracting data to build excel tables</li>
+		<li>Created a suite of tools, to be used by the System Architecture and Security teams, for faster manual and automated extraction of information and management in Active Directory</li>
+		<li>Updated technical documents detailing instruction sets by acting out procedures and improving the clarity of the instructions in areas of possible misunderstanding</li>
+		<li>Learned about basic computer networks and distributed applications while applying newly acquired skills to gain in depth reinforcement</li>
+	</ul>
+</article>
+
+Bostelmann's Better Painting and Decorating
+<header>
+	<time datetime="2010.08">- August 2010</time>
+	<time datetime="2010.05">May 2010 &nbsp;</time>
+	<h1>BOSTELMANN'S BETTER PAINTING AND DECORATING</h1>
+	<h3>Painter</h3>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Worked under a tradesman as an apprentice in painting the interior and exterior of residential houses</li>
+		<li>Prepared surfaces for painting by removing old paint, filling holes, sanding, and dusting until a smooth finish with no imperfections was obtained</li>
+		<li>Applied base and final coats of paint as well as trimming and detailed finishing ensuring paint is evenly spread and properly cut for a professional finish</li>
+	</ul>
+</article>
+
+Canada's Wonderland
+<header>
+	<time datetime="2009.08">- August 2009</time>
+	<time datetime="2009.05">May 2009 &nbsp;</time>
+	<h1>CANADA'S WONDERLAND - FOOD AND DRINK</h1>
+	<h3>Cashier</h3>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Provided excellent customer service by taking orders and completing cash register transactions in an enthusiastic manner</li>
+		<li>Worked quickly as a member of the production team to serve up to 50 customers an hour in a busy fast-food restaurant</li>
+		<li>Aided in the training of new employees by providing continual help on daily tasks until a full understanding of procedures was learned improving long term service speeds</li>
+	</ul>
+</article>
+
+UNIVERSITY
+<header>
+	<time datetime="2014">2014</time>
+	<h1>UNIVERSITY OF BRITISH COLUMBIA</h1>
+	<h3>Bachelor of Applied Science (Electrical Engineering, specializing in Nanotechnology and Microsystems)</h3>
+</header>
+
+COLORIMETER
+<header>
+	<time datetime="">Current</time>
+	<h1>COLORIMETER</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Designing a 24-bit RGB colorimeter using the PSoC 4 microcontroller to add to the open source community and for use in future projects</li>
+		<li>Programmed a driver for the ILI9340 TFT LCD chip controller and a standard graphics library to create a graphical user interface for displaying color composition and spectral response</li>
+	</ul>
+</article>
+
+TOUCH KEYBOARD
+<header>
+	<time datetime="2010.10">October 2010</time>
+	<h1>TOUCH KEYBOARD</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Created a resistive touch sensor that functions as a keyboard for people with muscle disorders applying understanding of circuit analysis, lab skills, and design</li>
+		<li>Researched and developed a 12.0V power supply obtaining a voltage variation of 0.1V</li>
+		<li>Designed and built a multi-electrode hand sensor with user feedback and low material waste using Solidworks</li>
+		<li>Coordinated with five teammates and continuously relayed information to ensure all team members understood the project’s progress allowing deadlines to be met</li>
+		<li>Collaborated with group members on writing a formal report describing strengths and weaknesses of the design as well as performance results</li>
+		<li>Presented to an audience of 84 classmates the key deign points of the project in under five minutes</li>
+	</ul>
+</article>
+
+ROBOTIC NEUROSURGERY
+<header>
+	<time datetime="2010.11">Novemeber 2010</time>
+	<h1>ROBOTIC NEUROSURGERY - REPORT AND PRESENTATION</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Organized weekly group meetings to discuss progress and assign tasks allowing the report to be completed by the deadline</li>
+		<li>Assigned roles according to each members interest to encourage participation ensuring a successful well written report</li>
+		<li>Compiled each members individual work to ensure a well organized and properly formatted formal report</li>
+		<li>Designed an engaging power point for use in a fifteen minute presentation to keep the audience focused</li>
+	</ul>
+</article>
+
+AUTONOMOUS TOY CAR TRAP
+<header>
+	<time datetime="2010.12">December 2010</time>
+	<h1>AUTONOMOUS TOY CAR TRAP</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Researched and developed a retroreflective photodetector circuit to sense fast traveling toy cars moving up to 1.5m/s</li>
+		<li>Created a asynchronous counter to reduce an internal clock from 50MHz down to 50Hz for use with a servo motor</li>
+		<li>Programmed a 2x16 LCD using CHDL to show real-time information regarding the toy car’s acceleration, velocity, and time</li>
+		<li>Helped five group members on writing a formal report describing the strengths and weaknesses of the design as well as performance results</li>
+		<li>Collaborated with group members on writing a formal report describing strengths and weaknesses of the design as well as performance results</li>
+	</ul>
+</article>
+
+ATARI JOYSTICK
+<header>
+	<time datetime="2011.02">February 2011</time>
+	<h1>ATARI JOYSTICK</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Designed and developed an analog capacitive joystick compatible with the Atari game console applying understanding of circuit analysis, electromagnetics, and micro-controllers</li>
+		<li>Communicated with group members to ensure individual components would be successfully incorporated into the project</li>
+		<li>Researched and designed a circuit for measuring capacitance using knowledge of oscillators, filters, and rectifiers</li>
+		<li>Collaborated with group members on writing a formal report detailing the design of the joystick</li>
+		<li>Presented to an audience of 60 students the key design ideas in under six minutes with the time limit strictly enforced</li>
+	</ul>
+</article>
+
+COIN OPERATED KARAOKE MACHINE
+<header>
+	<time datetime="2011.03">March 2011</time>
+	<h1>COIN OPERATED KARAOKE MACHINE</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Lead a group of six in creating a coin operated karaoke machine improving group organization and quality of the finished product</li>
+		<li>Organized weekly group meetings to discuss progress made as well as assigning individual deadlines completing the project before the final deadline</li>
+		<li>Assigned roles according to each members interests resulting in an active group and higher standard for quality of work</li>
+		<li>Designed an inductor and an inductive sensor to detect the different Canadian coins by applying an understanding of circuit analysis, micro-controllers, and electromagnets</li>
+		<li>Collaborated with group members on writing a formal report detailing the design of the karaoke machine</li>
+		<li>Presented to an audience of 60 students the key design ideas in under six minutes with the time limit strictly enforced</li>
+	</ul>
+</article>
+
+ACCELEROMETERS IN AUTOMOTIVE CRASH DETECTION SYSTEMS
+<header>
+	<time datetime="2012.04">April 2012</time>
+	<h1>ACCELEROMETERS IN AUTOMOTIVE CRASH DETECTION SYSTEMS</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Researched frontal crash reports searching for crash data and accelerometer designs to be used in developing an accelerometer for automotive crash detection systems</li>
+		<li>Designed a microelectromechanical accelerometer using a differential capacitor sensor combined with a comb drive layout to accurately sense for accelerations above 8G’s</li>
+		<li>Simulated the accelerometer using MatLab, COMSOL, and Multisim to develop an in-depth analysis of the accelerometer in a frontal crash</li>
+		<li>Presented and wrote a report detailing my research, the design of the accelerometer, and the analysis targeted towards fellow peers, and professors</li>
+	</ul>
+</article>
+
+DESIGN AND MODELLING OF A VISIBLE LIGHT COMMUNICATION SYSTEM
+<header>
+	<time datetime="2014.04">April 2014</time>
+	<h1>DESIGN AND MODELLING OF A VISIBLE LIGHT COMMUNICATION SYSTEM</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Modelled a visible light communication system using Multisim and MATLAB to implement a colour-shift keying modulation scheme</li>
+		<li>Researched colour-shift keying to learn about current IEEE standards, how to design constellations and balance white light</li>
+		<li>Designed a simple four star constellation using colour mapping and blending analysis for the purpose of implementing colour-shift keying</li>
+		<li>Collaborated with group members on writing a formal technical report and presentation describing strengths and weaknesses of the model as well as performance results</li>
+	</ul>
+</article>
+
+NON-DIRECTED LINE OF SIGHT OPTICAL WIRELESS COMMUNICATION SYSTEM
+<header>
+	<time datetime="2014.04">April 2014</time>
+	<h1>NON-DIRECTED LINE OF SIGHT OPTICAL WIRELESS COMMUNICATION SYSTEM</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Designed a communication system using visible light communication and power line communication for a unidirectional link between computers</li>
+		<li>Prototyped an optical transmitter which is capable of task lighting and transmitting data into the visible light spectrum, with a cut-off frequency of approximately 200kHz</li>
+		<li>Created breakout boards for high powered surface mount light emitting diodes, with footprints which aid in efficient heat dissipation</li>
+		<li>Lead a team of five to completion by counselling disputes, organizing tasks and deadlines, providing assistance, and seeking additional help when needed</li>
+	</ul>
+</article>
+
+THERMAL-OPTICAL MACH-ZEHNDER SWITCH
+<header>
+	<time datetime="2014.04">April 2014</time>
+	<h1>THERMAL-OPTICAL MACH-ZEHNDER SWITCH</h1>
+</header>
+<article>
+	<h2>Overview</h2>
+	<p>Atqui nobis consetetur per cu, te recusabo efficiendi mea. Qui nonumy nostrud pertinacia te. At veri ceteros eum. Quas postea sea et. Has invenire necessitatibus ut, mea ei malis disputationi, vitae consequuntur id quo. Cu epicuri intellegebat mea, cu tempor facete vix.</p>
+	<br>
+	<p>Ne eius maiorum conclusionemque mel, pri at prima gubergren forensibus, impetus reprehendunt mea ad. Debitis definitionem id vix. His quem augue cu, vis delenit accommodare te. Magna tollit invenire no sea, quas rebum et vis, paulo veniam mea ea. Ex nisl clita mea.</p>
+	<br>
+	<p>Suscipit eleifend consulatu vix in, ad quo odio diam everti, civibus interpretaris sit ne. Sonet vituperata reformidans ut cum. Magna utroque interpretaris vis no, menandri volutpat cu vix. Quidam persecuti nec eu, ex consequat voluptatibus per. Primis temporibus pri ex.</p>
+	<br>
+	<h2>Accomplishments</h2>
+	<ul>
+		<li>Designed a thermally tuned Mach-Zehnder optical switch to be used for high speed communication of light on the micrometer scale</li>
+		<li>Modelled the switch using MATLAB to analyze the transmission characteristics, the spectral shift response, the impact of changes in temperature, and theoretical efficiency</li>
+		<li>Fabricated silicon dioxide cladding and a chromium layer, using plasma enhanced chemical vapour deposition and metal evaporation procedures</li>
+		<li>Wrote a scientific report detailing the design of the switch, the fabrication procedures and parameters, and the analysis; with the intended audience towards fellow peers, and professors</li>
+	</ul>
+</article>
